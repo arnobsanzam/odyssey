@@ -6,13 +6,4 @@ cover = "img/hello.jpg"
 description = ""
 +++
 
-I love JAVA.
-
-A lot of other reasons.
-A lot of other reasons.
-A lot of other reasons.
-A lot of other reasons.
-A lot of other reasons.
-A lot of other reasons.
-A lot of other reasons.
-A lot of other reasons.
+Lorem Ipsum

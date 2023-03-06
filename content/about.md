@@ -1,7 +1,7 @@
 +++
 title = "Hello Friend"
-date = "2019-01-25"
-author = "Lorem Ipsum"
+date = "2023-03-06"
+author = "Arnob"
 cover = "img/hello.jpg"
 description = ""
 +++
