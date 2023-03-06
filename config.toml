@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "http://arnobsanzam.github.io/odyssey"
 languageCode = "en-us"
 theme = "terminal"
 paginate = 5
