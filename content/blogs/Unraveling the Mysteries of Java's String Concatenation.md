@@ -20,7 +20,7 @@ created and added to the string pool.
 
 Let's consider a testcase.
 
-```
+```java
     @Test
     void firstTest() {
         String s1 = "abc";
@@ -51,7 +51,7 @@ the string pool.
 Now that we have an idea about how string pool in JVM works, let's take a look at a few more
 examples.
 
-```
+```java
     @Test
     void secondTest() {
         String s1 = "abc";
@@ -82,7 +82,7 @@ result, s1 and s2 point to the same string object, and the output of s1 == s2 is
 
 Let's take a look at one final (pun intended) example.
 
-```
+```java
     @Test
     void fourthTest() {
         final String s1 = "abc";
