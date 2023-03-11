@@ -1,5 +1,5 @@
 +++
-title = "Gen in touch"
+title = "Get in touch"
 date = "2023-03-11"
 author = "Syed Sanzam"
 cover = "img/contact.jpg"
