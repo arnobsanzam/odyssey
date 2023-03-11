@@ -26,13 +26,13 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
-        name = "About"
-        url = "/about"
-      [[languages.en.menu.main]]
         identifier = "blogs"
         name = "Blogs"
         url = "/blogs"
+        [[languages.en.menu.main]]
+        identifier = "about"
+        name = "Contact"
+        url = "/contact"
         [[languages.en.menu.main]]
         identifier = "showcase"
         name = "Showcase"

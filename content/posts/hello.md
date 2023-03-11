@@ -2,7 +2,7 @@
 title = "Hiya folks!"
 date = "2013-03-06"
 author = "Arnob"
-cover = "img/hello.jpg"
+cover = "img/programmer.jpg"
 description = ""
 +++
 
