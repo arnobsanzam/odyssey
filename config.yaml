@@ -1,0 +1,36 @@
+baseurl: 'https://arnobsanzam.github.io/odyssey'
+languageCode: en-us
+theme: terminal
+paginate: 5
+params:
+  contentTypeName: posts
+  themeColor: orange
+  showMenuItems: 2
+  fullWidthTheme: false
+  centerTheme: true
+  readingTime: true
+
+languages:
+  en:
+    title: Arnob's Odyssey
+    subtitle: 'A simple, retro theme for Hugo'
+    keywords: ''
+    copyright: ''
+    menuMore: Show more
+    readMore: Read more
+    readOtherPosts: Read other posts
+    params:
+      logo:
+        logoText: Arnob's Odyssey
+        logoHomeLink: 'https://arnobsanzam.github.io/odyssey'
+    menu:
+      main:
+        - identifier: blogs
+          name: Blogs
+          url: /blogs
+        - identifier: about
+          name: Contact
+          url: /contact
+        - identifier: showcase
+          name: Showcase
+          url: /showcase
