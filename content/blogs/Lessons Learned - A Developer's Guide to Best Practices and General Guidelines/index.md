@@ -19,7 +19,7 @@ business is on the line, things can get murky and complicated quickly.
 Having experienced the challenges of writing and deploying code, I understand the value of having a reliable set of
 guidelines to follow. With this in mind, I have taken the initiative to compile a list of crucial tips to aid in
 navigating the intricacies of managing downtime and meeting deadlines. This resource is not only intended for your
-benefit, but also serves as a personal reminder for myself.
+benefit, but also serves as a reminder for myself.
 
 ## Adding Value Without Disrupting Stability
 
