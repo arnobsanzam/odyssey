@@ -20,6 +20,8 @@ languages:
     readMore: Read more
     readOtherPosts: Read other posts
     params:
+      Toc: true
+      TocTitle: Contents
       logo:
         logoText: Arnob's Odyssey
         logoHomeLink: 'https://arnobsanzam.github.io/odyssey'
@@ -28,9 +30,15 @@ languages:
         - identifier: blogs
           name: Blogs
           url: /blogs
+          weight: 1
         - identifier: about
           name: Contact
           url: /contact
+          weight: 2
         - identifier: showcase
           name: Showcase
           url: /showcase
+        - identifier: solutions
+          name: Problem Solving
+          url: /problem-solving/problemsolving
+          weight: 3
